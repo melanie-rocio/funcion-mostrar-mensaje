@@ -26,9 +26,9 @@ Primero, pensé en qué podía hacer con JavaScript que fuera simple, útil y qu
 Como tenía formularios, se me ocurrió agregar un mensaje de agradecimiento al enviarlos.
 
 Me decidi por usar alert() porque:
--Es algo que ya aprendimos.
--Es fácil de implementar.
--Llama la atención del usuario.
+1. Es algo que ya aprendimos.
+2. Es fácil de implementar.
+3. Llama la atención del usuario.
 
 Probé con varias formas de hacerlo, pero al principio usába return false; y eso impedía que el formulario se enviara.
 Después entendí que sí usaba return true; al final de la función, el mensaje aparecía y el formulario igual se enviaba.
