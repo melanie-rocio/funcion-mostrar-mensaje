@@ -14,9 +14,9 @@ Es decir, el formulario se comporta igual que siempre, pero antes aparece un men
 ¿Por qué es útil o necesaria para su proyecto? (justificación)
 
 Esta función es útil porque:
-1. Mejora la experiencia del usuario, mostrando un agradecimiento al instante.
-2. Genera una conexión emocional con la temática del sitio (gatitos).
-3. Es una forma muy simple y efectiva de dar respuesta.
+· Mejora la experiencia del usuario, mostrando un agradecimiento al instante.
+· Genera una conexión emocional con la temática del sitio (gatitos).
+· Es una forma muy simple y efectiva de dar respuesta.
 
 En un sitio como el nuestro, donde se busca que la gente adopte gatitos y se sienta bien recibida, este detalle aporta calidez y confianza.
 
